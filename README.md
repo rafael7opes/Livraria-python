@@ -17,3 +17,6 @@ Sistema de linha de comando (CLI) para gerenciamento de uma livraria, permitindo
 - Estruturas condicionais
 - Listas e dicionários
 - Funções
+
+## Objetivo
+Este projeto foi desenvolvido com o objetivo de praticar lógica de programação e manipulação de dados em Python.
