@@ -6,7 +6,7 @@ O objetivo principal foi aplicar conceitos fundamentais de Python para criar um 
 
 ## Funcionalidades
 * **Cadastro de Livros:** Registro de nome, autor e editora com geração automática de ID único.
-* **Consulta Avançada:** * Listagem de todos os livros cadastrados.
+* **Consulta Avançada:** Listagem de todos os livros cadastrados.
     * Busca específica por ID.
     * Filtro por nome do autor.
 * **Remoção de Registros:** Exclusão de livros do acervo através do ID.
