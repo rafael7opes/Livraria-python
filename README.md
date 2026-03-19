@@ -1,32 +1,26 @@
-# Sistema de Livraria em Python
+# Sistema de Gestão de Livraria (CRUD em Python)
 
-Projeto desenvolvido durante a graduação em Análise e Desenvolvimento de Sistemas.
+Este projeto foi desenvolvido como parte da disciplina de Lógica de Programação e Algoritmos. Trata-se de uma aplicação de console que simula o gerenciamento de um acervo de livraria.
 
-## Descrição
-
-Sistema de linha de comando (CLI) para gerenciamento de uma livraria, permitindo cadastrar, consultar e remover livros.
+O objetivo principal foi aplicar conceitos fundamentais de Python para criar um sistema de **CRUD** (Create, Read, Update, Delete).
 
 ## Funcionalidades
+* **Cadastro de Livros:** Registro de nome, autor e editora com geração automática de ID único.
+* **Consulta Avançada:** * Listagem de todos os livros cadastrados.
+    * Busca específica por ID.
+    * Filtro por nome do autor.
+* **Remoção de Registros:** Exclusão de livros do acervo através do ID.
+* **Menu Interativo:** Interface amigável via terminal com validação de opções.
 
-- Cadastro de livros
-- Consulta de todos os livros
-- Busca por ID
-- Busca por autor
-- Remoção de livros
+## Conceitos Aplicados
+* **Estruturas de Dados:** Uso de `listas` para o acervo e `dicionários` para representar cada livro.
+* **Funções:** Modularização do código para garantir organização e reuso.
+* **Escopo de Variáveis:** Gerenciamento de IDs globais.
+* **Estruturas de Repetição e Condicionais:** `while` e `if/elif/else` para o fluxo do sistema.
 
-## Tecnologias utilizadas
-
-- Python
-- Estruturas condicionais
-- Listas e dicionários
-- Funções
-
-## Objetivo
-
-Este projeto foi desenvolvido com o objetivo de praticar lógica de programação e manipulação de dados em Python.
-
-## Como executar
-
-1. Certifique-se de ter o Python instalado.
-2. Faça o clone ou baixe este repositório.
-3. Abra o terminal na pasta do arquivo e digite: py Trabalho4.py
+## Como rodar o projeto
+1.  Certifique-se de ter o Python instalado.
+2.  Clone o repositório:
+    `git clone https://github.com/rafael7opes/Livraria-python.git`
+3.  Execute o arquivo:
+    `python nome_do_seu_arquivo.py`
