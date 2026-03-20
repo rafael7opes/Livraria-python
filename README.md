@@ -22,5 +22,7 @@ O objetivo principal foi aplicar conceitos fundamentais de Python para criar um 
 1.  Certifique-se de ter o Python instalado.
 2.  Clone o repositório:
     `git clone https://github.com/rafael7opes/Livraria-python.git`
-3. Execute o arquivo:
+3. Entre na pasta do projeto:
+    `cd Livraria-python`
+4. Execute o arquivo:
    `py Trabalho4.py`
